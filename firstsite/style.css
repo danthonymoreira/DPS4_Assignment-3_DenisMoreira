@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,100,800,900,400,200,300);
+@import url(http://fonts.googleapis.com/css?family=Playball);
+
+body, html
+{
+  font-family: 'Raleway', sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  line-height: 1.5;
+}
+
+img
+{
+  border: 5px solid lightgrey;
+  padding: 10px;
+}
+
+
+p{font-size: 20px;}
+
+.container-fluid
+{
+  padding: 25px; 
+}
+
+.navbar
+{
+  background-color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
+.navbar li a
+{
+  color: white;
+}
+
+}
